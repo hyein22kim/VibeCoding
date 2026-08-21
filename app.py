@@ -996,7 +996,7 @@ def main():
         page_icon="📝",
         layout="wide",
     )
-    apply_custom_styles()
+    apply_custom_styles() 
     st.title("📝 나만의 메모장")
     st.caption("메모 기록부터 PDF 학습까지 한곳에서 관리하세요.")
 
